@@ -28,4 +28,3 @@ date_block_num - a consecutive month number, used for convenience. January 2013 
 item_name - name of item  
 shop_name - name of shop  
 item_category_name - name of item category  
-This dataset is permitted to be used for any purpose, including commercial use.  
