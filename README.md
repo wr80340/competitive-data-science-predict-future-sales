@@ -1,9 +1,7 @@
 # competitive-data-science-predict-future-sales
 
 You are provided with daily historical sales data. The task is to forecast the total amount of products sold in every shop for the test set. Note that the list of shops and products slightly changes every month. Creating a robust model that can handle such situations is part of the challenge.  
-  
-We are asking you to predict total sales for every product and store in the next month. By solving this competition you will be able to apply and enhance your data science skills.
-
+ 
 # Evaluation
 
 Submissions are evaluated by root mean squared error (RMSE). True target values are clipped into [0,20] range.
